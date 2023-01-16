@@ -1,5 +1,5 @@
 ## Question2
-![code img1](https://raw.githubusercontent.com/1Shiyutong/Question/main/Q2/img/img1.jpg)
+![code img1](https://github.com/1Shiyutong/Question/blob/main/Q2/img/img1.jpg)
 ``` matlab
 clc
 clear all
