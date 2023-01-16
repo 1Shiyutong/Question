@@ -1,5 +1,5 @@
 ## Question2
-![code img1](Q2/img/img1.png)
+![code img1](/Q2/img/img1.png)
 ``` matlab
 clc
 clear all
